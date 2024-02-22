@@ -1,2 +1,13 @@
-
-/* Your CSS Code here. */
+#Container{
+class name: main;
+width: 200px;
+background-color: purple;
+border-left-color: green;
+boder-left-thickness: 5px;	
+padding: 10px;
+}
+#Heading{
+class-id-name: heading;
+front-size: 20px;
+text-decoration: underline;
+}
