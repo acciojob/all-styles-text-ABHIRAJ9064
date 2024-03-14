@@ -1,4 +1,4 @@
-#Container{
+.h2{
 class name: main;
 width: 200px;
 background-color: purple;
@@ -6,8 +6,10 @@ border-left-color: green;
 boder-left-thickness: 5px;	
 padding: 10px;
 }
-#Heading{
-class-id-name: heading;
-front-size: 20px;
+.h2{
 text-decoration: underline;
+color: white;		
+front-size: 20px;
+}
+	
 }
